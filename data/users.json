@@ -1,0 +1,48 @@
+[
+  {
+    "id": "user1",
+    "name": "Ahmed Hassan",
+    "email": "ahmed.hassan@email.com",
+    "type": "applicant",
+    "profile": {
+      "experience": "5 years",
+      "education": "Bachelor's in Islamic Studies",
+      "skills": ["Arabic", "Quran Teaching", "Community Leadership"],
+      "location": "New York, NY"
+    }
+  },
+  {
+    "id": "user2",
+    "name": "Fatima Ali",
+    "email": "fatima.ali@email.com",
+    "type": "applicant",
+    "profile": {
+      "experience": "3 years",
+      "education": "Master's in Education",
+      "skills": ["Online Teaching", "Curriculum Development", "Arabic"],
+      "location": "Remote"
+    }
+  },
+  {
+    "id": "emp1",
+    "name": "Al-Noor Islamic Center",
+    "email": "hr@alnoor.org",
+    "type": "employer",
+    "profile": {
+      "companySize": "50-100 employees",
+      "industry": "Religious Organization",
+      "location": "New York, NY"
+    }
+  },
+  {
+    "id": "emp2",
+    "name": "Learn Islam Online",
+    "email": "hiring@learnislam.com",
+    "type": "employer",
+    "profile": {
+      "companySize": "10-50 employees",
+      "industry": "Education Technology",
+      "location": "Remote"
+    }
+  }
+]

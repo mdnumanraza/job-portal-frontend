@@ -1,0 +1,29 @@
+[
+  {
+    "id": "app1",
+    "jobId": "1",
+    "userId": "user1",
+    "status": "applied",
+    "appliedDate": "2024-01-16",
+    "coverLetter": "I am very interested in the Imam position at Al-Noor Islamic Center...",
+    "resume": "ahmed_hassan_resume.pdf"
+  },
+  {
+    "id": "app2",
+    "jobId": "2",
+    "userId": "user2",
+    "status": "under review",
+    "appliedDate": "2024-01-21",
+    "coverLetter": "As an experienced online educator with Ijazah certification...",
+    "resume": "fatima_ali_resume.pdf"
+  },
+  {
+    "id": "app3",
+    "jobId": "5",
+    "userId": "user1",
+    "status": "accepted",
+    "appliedDate": "2024-01-26",
+    "coverLetter": "I would like to apply for the Arabic Language Tutor position...",
+    "resume": "ahmed_hassan_resume.pdf"
+  }
+]

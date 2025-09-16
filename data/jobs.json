@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Imam - Community Mosque",
+    "employer": "Al-Noor Islamic Center",
+    "location": "New York, NY",
+    "category": "imam",
+    "type": "full-time",
+    "salary": "$45,000 - $55,000",
+    "description": "We are seeking a dedicated Imam to lead our growing community in daily prayers, Friday sermons, and religious guidance. The ideal candidate should have strong knowledge of Islamic jurisprudence and excellent communication skills.",
+    "requirements": [
+      "Bachelor's degree in Islamic Studies or equivalent",
+      "Fluent in Arabic and English",
+      "Minimum 3 years of experience",
+      "Strong leadership and communication skills"
+    ],
+    "applicationStatus": "open",
+    "featured": true,
+    "postedDate": "2024-01-15",
+    "employerId": "emp1"
+  },
+  {
+    "id": "2",
+    "title": "Online Quran Tutor",
+    "employer": "Learn Islam Online",
+    "location": "Remote",
+    "category": "online tutor",
+    "type": "part-time",
+    "salary": "$20 - $30/hour",
+    "description": "Join our team of dedicated online Quran tutors to teach students of all ages. Flexible schedule with competitive compensation.",
+    "requirements": [
+      "Ijazah in Quran recitation",
+      "Experience in online teaching",
+      "Reliable internet connection",
+      "Patience and excellent teaching skills"
+    ],
+    "applicationStatus": "open",
+    "featured": true,
+    "postedDate": "2024-01-20",
+    "employerId": "emp2"
+  },
+  {
+    "id": "3",
+    "title": "Islamic School Teacher",
+    "employer": "Crescent Academy",
+    "location": "Chicago, IL",
+    "category": "teacher",
+    "type": "full-time",
+    "salary": "$40,000 - $50,000",
+    "description": "Teaching position for Islamic Studies and Arabic language for elementary students. We offer a supportive environment and professional development opportunities.",
+    "requirements": [
+      "Teaching certification preferred",
+      "Fluent in Arabic and English",
+      "Experience with children",
+      "Strong Islamic knowledge"
+    ],
+    "applicationStatus": "open",
+    "featured": false,
+    "postedDate": "2024-01-18",
+    "employerId": "emp3"
+  },
+  {
+    "id": "4",
+    "title": "Mosque Helper/Maintenance",
+    "employer": "Masjid Al-Huda",
+    "location": "Los Angeles, CA",
+    "category": "helper",
+    "type": "part-time",
+    "salary": "$15 - $18/hour",
+    "description": "Part-time position to assist with mosque maintenance, event setup, and general facility management. Perfect for someone looking to serve the community.",
+    "requirements": [
+      "Physical ability to lift and move equipment",
+      "Reliable and punctual",
+      "Basic maintenance skills preferred",
+      "Respectful and community-minded"
+    ],
+    "applicationStatus": "open",
+    "featured": false,
+    "postedDate": "2024-01-22",
+    "employerId": "emp4"
+  },
+  {
+    "id": "5",
+    "title": "Arabic Language Tutor",
+    "employer": "Language Learning Center",
+    "location": "Houston, TX",
+    "category": "teacher",
+    "type": "part-time",
+    "salary": "$25 - $35/hour",
+    "description": "Experienced Arabic tutor needed for individual and group lessons. Both in-person and online options available.",
+    "requirements": [
+      "Native or near-native Arabic proficiency",
+      "Teaching experience preferred",
+      "Bachelor's degree in Arabic or related field",
+      "Excellent communication skills"
+    ],
+    "applicationStatus": "open",
+    "featured": true,
+    "postedDate": "2024-01-25",
+    "employerId": "emp5"
+  },
+  {
+    "id": "6",
+    "title": "Youth Program Coordinator",
+    "employer": "Islamic Community Center",
+    "location": "Miami, FL",
+    "category": "helper",
+    "type": "full-time",
+    "salary": "$35,000 - $42,000",
+    "description": "Coordinate and manage youth programs, events, and activities for our Islamic community center. Great opportunity for someone passionate about youth development.",
+    "requirements": [
+      "Experience working with youth",
+      "Strong organizational skills",
+      "Event planning experience",
+      "Islamic knowledge and values"
+    ],
+    "applicationStatus": "open",
+    "featured": false,
+    "postedDate": "2024-01-28",
+    "employerId": "emp6"
+  }
+]
