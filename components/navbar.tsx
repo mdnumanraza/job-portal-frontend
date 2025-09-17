@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu"
 import { Globe, Menu } from "lucide-react"
 import { useLanguage } from "@/hooks/use-language"
+import { ThemeToggle } from "@/components/theme-toggle"
 
 export function Navbar() {
   const { currentLanguage, changeLanguage, t, languages } = useLanguage()
@@ -58,6 +59,8 @@ export function Navbar() {
           </div>
 
           <div className="flex items-center space-x-4">
+            <ThemeToggle />
+
             <DropdownMenu>
               <DropdownMenuTrigger asChild>
                 <Button variant="outline" size="sm">
